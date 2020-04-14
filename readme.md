@@ -1,0 +1,3 @@
+Graduate Attributes (GAs) in outcome-based education (OBE) are a major concern of the stakeholders, especially students, which are to be assessed during their academics. National Board of Accreditation, India has suggested graduate attributes which in turn help students in the attainment of educational objectives. The graduate attributes are salient and important for all the graduating students. Graduate attributes are acquired through curricular, co-curricular and extra-curricular activities. Analyzing a student’s performance during their academics is crucial for increasing the chances of employability
+
+Laravel based Project
